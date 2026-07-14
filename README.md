@@ -29,9 +29,9 @@ EVERYTHING_DATA_renamed.zip
 
 ## 2. Snapshot of the raw data
 
-Below are actual rows pulled straight from `S01_Sit.csv` (unmodified), showing the different row types the file contains: a header/metadata row, two beat-detected PPG rows, and a manual SpO2 checkpoint row.
+Below are actual rows pulled straight from `S03_Run.csv` (unmodified), showing all 25 columns as logged.
 
-![Raw row snapshot](imgs/snapshot_raw_rows.png)
+![Raw row snapshot](imgs/snapshot_raw_rows_run.png)
 
 **What each column means:**
 
@@ -87,7 +87,7 @@ All subjects wore the sensor rig continuously through logging. A hand-held analo
 
 ## 4. Session length by activity
 
-![Row count distribution](imgs/"C:\Users\FIT\Desktop\rowcount_by_activity.png")
+![Row count distribution](imgs/rowcount_by_activity.png)
 
 | Activity | Rows (min–max) | Rows (mean) |
 |---|---:|---:|
