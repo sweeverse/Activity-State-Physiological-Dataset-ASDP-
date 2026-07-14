@@ -87,7 +87,7 @@ All subjects wore the sensor rig continuously through logging. A hand-held analo
 
 ## 4. Session length by activity
 
-![Row count distribution](imgs/rowcount_by_activity.png)
+![Row count distribution](imgs/"C:\Users\FIT\Desktop\rowcount_by_activity.png")
 
 | Activity | Rows (min–max) | Rows (mean) |
 |---|---:|---:|
