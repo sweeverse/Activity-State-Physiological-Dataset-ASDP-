@@ -7,8 +7,8 @@ A dataset of continuous wearable-sensor recordings (PPG, GSR, accelerometer, gyr
 ## 1. What's in the zip
 
 ```
-EVERYTHING_DATA_renamed.zip
-├── modified_csvs/
+Multimodal_Wearable_Physiology_Dataset.zip
+├── csvs/
 │   ├── S01_Sit.csv, S01_Walk.csv, S01_Run.csv, S01_Cog.csv
 │   ├── S02_Sit.csv, ...
 │   └── ... (S01–S20 × 4 activities = 80 files)
